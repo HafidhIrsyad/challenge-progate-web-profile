@@ -102,7 +102,47 @@ header {
     margin-left: 10px;
 }
 
+.tutor-wrapper {
+    padding-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #f7f7f7;
+    text-align: center;
+}
 
+.heading {
+    padding-top: 80px;
+    padding-bottom: 50px;
+    color: #5f5d60;
+}
+
+.heading h2 {
+    font-weight: normal;  
+}
+
+.tutor {
+    float: left;
+    width: 20%;
+}
+
+.tutor-icon {
+    position: relative;
+}
+
+.tutor-icon p {
+    position: absolute;
+    top: 44%;
+    width: 100%;
+    color: white;
+}
+
+.text-contents {
+    width: 80%;
+    display: inline-block;
+    margin-top: 15px;
+    font-size: 15px;
+    color: #b3aeb5;
+  }
 
 
 footer img {
