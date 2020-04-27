@@ -101,3 +101,20 @@ header {
     margin-top: 5px;
     margin-left: 10px;
 }
+
+
+
+
+footer img {
+  width: 125px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
