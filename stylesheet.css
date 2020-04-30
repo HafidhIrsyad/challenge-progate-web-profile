@@ -1,24 +1,19 @@
-
 * {
     box-sizing: border-box;
 }
-
 body {
     margin: 0;
     font-family: "Lucida Grande";
 }
-
 a {
     text-decoration: none;
 }
-
 .container {
     max-width: 1170px;
     width: 100%;
     padding: 0;
     margin: 0 30px;
 }
-
 header {
     height: 61px;
     width: 100%;
@@ -27,15 +22,12 @@ header {
     top: 0;
     z-index: 10;
 }
-
 .header-left {
     float: left;
 }
-
 .header-right {
     float: right;
 }
-
 .header-right a {
     line-height: 65px;
     padding: 0 25px;
@@ -45,35 +37,28 @@ header {
     transition: all 0.5s;
     height: 60px;
 }
-
 .header-right a:hover {
     background-color: rgba(255, 255, 255, 0.3);
 }
-
 .top-wrapper {
     padding: 100px 0 200px 0;
     background-image: url(https://raw.githubusercontent.com/HafidhIrsyad/challenge-progate-web-profile/master/background.jpg);
     background-size: cover;
 }
-
 .btn-wrapper {
     text-align: left;
     margin: 50px;
 }
-
 .signup {
     background-color: #239b76;
 }
-
 .facebook {
     background-color: #3b5998;
     margin-right: 10px;
 }
-
 .twitter {
     background-color: #55acee;
 }
-
 .btn {
     padding: 12px 24px;
     color: white;
@@ -82,27 +67,23 @@ header {
     border-radius: 4px;
     text-align: center;
 }
-
 .btn:active {
   position: relative;
   top: 7px;
   box-shadow: none;
 }
-
 .main h1 {
     text-align: left;
     color: white;
     margin: 50px;
     text-shadow: Black 1px 0 10px;
 }
-
 .logo {
     width: 95px;
     height: 47px;
     margin-top: 5px;
     margin-left: 10px;
 }
-
 .tutor-wrapper {
     padding-bottom: 80px;
     padding-left: 5%;
@@ -110,33 +91,27 @@ header {
     background-color: #f7f7f7;
     text-align: center;
 }
-
 .heading {
     padding-top: 80px;
     padding-bottom: 50px;
     color: #5f5d60;
 }
-
 .heading h2 {
     font-weight: normal;
 }
-
 .tutor {
     float: left;
     width: 20%;
 }
-
 .tutor-icon {
     position: relative;
 }
-
 .tutor-icon p {
     position: absolute;
     top: 44%;
     width: 100%;
     color: white;
 }
-
 .text-contents {
     width: 80%;
     display: inline-block;
@@ -144,17 +119,13 @@ header {
     font-size: 15px;
     color: #b3aeb5;
 }
-
-
 footer img {
   width: 125px;
 }
-
 footer p {
   color: white;
   font-size: 12px;
 }
-
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
